@@ -1,0 +1,29 @@
+==================================================================
+  ADVERSE ACTION NOTICE  |  InsureXplain Underwriting
+==================================================================
+Date: October 26, 2026      Reference: APP-00725
+
+Dear Applicant,
+
+We are unable to offer you motor insurance on the standard terms you applied
+for. This decision was made with the help of an automated risk model.
+
+The three factors that contributed most to this decision were:
+
+  1. Your age group, combined with your mileage and experience, is associated with a higher claim rate.
+     What may help: You may ask for a manual review of this combined factor.
+
+  2. Your credit-based insurance score (585) is below the level used for our standard terms.
+     What may help: Paying bills on time and lowering card balances can raise this score. You may request a free copy of your report.
+
+  3. You have 0 year(s) of licensed driving experience, and experience is a strong predictor of safe driving.
+     What may help: This improves automatically with time on the road.
+
+Your rights
+  - You can ask for a human underwriter to review this decision.
+  - You can ask for a copy of the information we used and correct any errors.
+  - Characteristics such as gender and marital status are NOT used in this model.
+
+Sincerely,
+InsureXplain Underwriting Team
+(Template for academic demonstration; not legal advice.)

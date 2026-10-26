@@ -1,0 +1,12 @@
+feature,corr_gender,corr_married,shap_gap_M_minus_F,importance,flag
+age,0.026,0.015,-0.025,0.393,False
+credit_score,0.005,-0.025,-0.01,0.389,False
+prior_claims,0.022,0.024,0.018,0.348,False
+driving_experience,0.027,0.015,-0.019,0.228,False
+vehicle_value,0.035,0.013,0.023,0.217,False
+traffic_violations,-0.011,-0.029,-0.011,0.175,False
+night_driving_pct,0.019,-0.02,0.009,0.15,False
+sports_vehicle,0.205,0.014,0.058,0.099,True
+vehicle_age,0.001,-0.035,-0.0,0.082,False
+annual_mileage,-0.03,-0.036,-0.009,0.065,False
+urban_garaging,-0.032,0.013,-0.003,0.062,False

@@ -1,0 +1,29 @@
+==================================================================
+  ADVERSE ACTION NOTICE  |  InsureXplain Underwriting
+==================================================================
+Date: October 26, 2026      Reference: APP-02238
+
+Dear Applicant,
+
+We are unable to offer you motor insurance on the standard terms you applied
+for. This decision was made with the help of an automated risk model.
+
+The three factors that contributed most to this decision were:
+
+  1. Your record shows 2 claim(s) in the last 3 years, which is linked to a higher chance of future claims.
+     What may help: Claims fall out of our rating window over time; a claim-free period will improve your profile.
+
+  2. You have 9 year(s) of licensed driving experience, and experience is a strong predictor of safe driving.
+     What may help: This improves automatically with time on the road.
+
+  3. The insured vehicle's value ($36,500) increases the potential cost of a claim.
+     What may help: A different vehicle choice may change the terms offered.
+
+Your rights
+  - You can ask for a human underwriter to review this decision.
+  - You can ask for a copy of the information we used and correct any errors.
+  - Characteristics such as gender and marital status are NOT used in this model.
+
+Sincerely,
+InsureXplain Underwriting Team
+(Template for academic demonstration; not legal advice.)
